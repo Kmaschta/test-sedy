@@ -1,3 +1,3 @@
 # test-sedy
 
-and something to do and stuff
+and smth to do and stuff
